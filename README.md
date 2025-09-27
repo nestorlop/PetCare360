@@ -14,3 +14,5 @@ Para la gestión del flujo de trabajo con Git se utilizará **GitFlow**.
 - Por cada funcionalidad se crearán ramas con la convención:  
 ---
 **Diagramas**
+- ## Diagrama de contexto
+![alt text](Docs\DiagramadeContexto.drawio.png)

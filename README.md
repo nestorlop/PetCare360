@@ -15,4 +15,4 @@ Para la gestión del flujo de trabajo con Git se utilizará **GitFlow**.
 ---
 **Diagramas**
 - ## Diagrama de contexto
-![alt text](Docs\DiagramadeContexto.drawio.png)
+![alt text](Docs\Diagramas\DiagramadeContexto.png)

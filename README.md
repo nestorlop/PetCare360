@@ -16,3 +16,5 @@ Para la gestión del flujo de trabajo con Git se utilizará **GitFlow**.
 **Diagramas**
 - ## Diagrama de contexto
 ![alt text](Docs/Diagramas/DiagramadeContexto.png)
+- ## Diagrama de casos de uso.
+![alt text](Docs/Diagramas/CasosdeusoPet.drawio.png)

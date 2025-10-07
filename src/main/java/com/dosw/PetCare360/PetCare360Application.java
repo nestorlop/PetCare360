@@ -1,4 +1,4 @@
-package com.dosw.PetCare360.demo;
+package com.dosw.PetCare360;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
